@@ -67,11 +67,8 @@ void average (int n, int m){
  cout << "the sum is " << sum << endl;
  cout << "the average is " << average << endl;    
   }
-    else{
-      while (m!=n){
-        sum = m + currentNum;
-        m = m+1;
-        currentNum++;
-      }
-    }
+    
   }
+
+
+
