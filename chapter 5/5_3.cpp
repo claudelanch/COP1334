@@ -118,7 +118,7 @@ int main()
         cout << "Enter a letter: ";               
         cin >> letter;                            
         cout << endl;                             
-    }//end while
+    }
 
     return 0;
 }
